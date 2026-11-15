@@ -18,7 +18,31 @@ The Food Delivery App is a modern mobile application design that helps users exp
 
 ## Project Screenshots
 
-Add your Food Delivery app screenshots here.
+## Project Screenshots
+
+### Splash Screen
+![Splash Screen](Splash.png)
+
+### Home Screen
+![Home Screen](home.png)
+
+### Login Screen
+![Login Screen](Login.png)
+
+### Search Screen
+![Search Screen](search.png)
+
+### Favorites Screen
+![Favorites Screen](Favorites.png)
+
+### Cart Screen
+![Cart Screen](Cart.png)
+
+### Checkout Screen
+![Checkout Screen](Checkout.png)
+
+### Prototype
+![Prototype](prototype.png)
 
 ## Live Project
 View Live Food Delivery App – https://savor-flow-mobile-kitchen.lovable.app
