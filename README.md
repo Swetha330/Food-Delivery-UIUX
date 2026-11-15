@@ -23,11 +23,12 @@ The Food Delivery App is a modern mobile application design that helps users exp
 ### Splash Screen
 ![Splash Screen](Splash.png)
 
+### Login Screen
+![Login Screen](Login.png)
+
 ### Home Screen
 ![Home Screen](home.png)
 
-### Login Screen
-![Login Screen](Login.png)
 
 ### Search Screen
 ![Search Screen](search.png)
